@@ -60,7 +60,7 @@ func GetIdentity() Developer {
 ### Active Processes: `~/process`
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,postgres,redis,docker,linux,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,postgres,redis,docker,linux,git&theme=dark" />
 </div>
 
 <br/>
@@ -68,12 +68,23 @@ func GetIdentity() Developer {
 ### System Monitor
 
 <div align="left">
-  <!-- Stats Cards (Terminal/Dark Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=ffffff&icon_color=33FF00" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=ffffff" height="150" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4&icon_color=33FF00" height="165" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Adityanrhm&theme=highcontrast&hide_border=true&background=0D1117&ring=33FF00&fire=FF6B6B&currStreakLabel=33FF00&sideLabels=D4D4D4&currStreakNum=FFFFFF&dates=64748B" height="165" />
 </div>
 
 <br/>
+
+<div align="left">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4&hide=html,css" height="150" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrhm&bg_color=0D1117&color=33FF00&line=33FF00&point=FFFFFF&area=true&area_color=33FF00&hide_border=true" width="100%" />
 
 ### 🏗 Mounted Projects `~/projects`
 
