@@ -1,25 +1,28 @@
 <div align="center">
 
-<!-- Glassy Header with Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Building+Backends+with+Go+%26+Laravel;Glassmorphism+Mode+Activated+%E2%9C%A8" alt="Typing SVG" />
+<!-- REAL GLASSMORPHISM HEADER -->
+<!-- Using a baked gradient background with a 'frosted' overlay effect simulated via Capsule Render with specific colors -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,50:0d1117&height=250&section=header&text=Aditya%20Nur%20Rohim&fontSize=40&fontColor=b3e5fc&fontAlignY=35&desc=Backend%20Engineering%20%E2%80%A2%20Scalable%20Systems&descSize=18&descAlignY=55&stroke=0ea5e9&strokeWidth=1" width="100%" />
 
 <br/>
 
-<!-- Social Badges with "Glass" style (Flat Square + Custom Color) -->
+<!-- Floating Glass Social Badges (No Border, Transparent BG Look) -->
 <a href="https://github.com/Adityanrhm">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=30363d" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&color=21262d" />
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/adityanrhm">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=30363d" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=21262d" />
 </a>
+&nbsp;
 <a href="https://instagram.com/adityanrhm">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=30363d" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&color=21262d" />
 </a>
 
 <br/><br/>
 
-<!-- About Card (Simulated Glass with Blockquote/Code) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,100:0d1117&height=2&width=100%" />
+<!-- Glassy Divide Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,50:30363d,100:21262d&height=1&width=80%" />
 
 </div>
 
@@ -62,16 +65,15 @@ func GetProfile() User {
 
 <div align="center">
 
-<!-- Stats with Transparent/Glass Theme -->
-<!-- Using 'transparent' bg to let GitHub's dark mode show through, giving a clean look -->
-<img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&ring_color=0ea5e9&bg_color=30,30,30,0.5" height="170" alt="GitHub Stats" />
+<!-- Stats with Transparent/Glass Theme (Simulating Frosted Effect) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=b3e5fc&icon_color=38bdf8&ring_color=38bdf8&bg_color=21,38,45,0.4" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=ffffff&bg_color=30,30,30,0.5" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=b3e5fc&bg_color=21,38,45,0.4" height="170" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityanrhm&theme=transparent&hide_border=true&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakNum=ffffff&currStreakLabel=0ea5e9&sideLabels=ffffff&dates=ffffff&background=0d111700" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityanrhm&theme=transparent&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=b3e5fc&currStreakLabel=38bdf8&sideLabels=b3e5fc&dates=b3e5fc&background=0d111700" width="80%" />
 </div>
 
 <br/>
@@ -96,7 +98,7 @@ func GetProfile() User {
 
 <br/><br/>
 
-<!-- Footer Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:30363d&height=5&width=100%" />
+<!-- Footer Gradient to fade out -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
