@@ -2,13 +2,12 @@
 
 <!-- macOS Terminal Header -->
 <p>
-  <img src="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/main/img/empty.png" width="0" height="10"> <!-- Spacer -->
-  <span style="font-family: monospace; font-size: 16px; color: #4F5D75;">🔴 🟡 🟢 &nbsp; aditya — -zsh — 80x24</span>
+  <span style="font-family: monospace; font-size: 16px; color: #4F5D75;">&nbsp;&nbsp;🔴 🟡 🟢 &nbsp; aditya — -zsh — 80x24</span>
 </p>
 
 <!-- Terminal Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=33FF00&background=0D1117&center=true&vCenter=true&width=700&height=70&lines=~%2Fgithub%2FAdityanrhm+%24+init_backend_system;~%2Fgithub%2FAdityanrhm+%24+loading_modules...;~%2Fgithub%2FAdityanrhm+%24+welcome_to_my_profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=33FF00&background=00000000&center=true&vCenter=true&width=700&height=70&lines=~%2Fgithub%2FAdityanrhm+%24+init_backend_system;~%2Fgithub%2FAdityanrhm+%24+loading_modules...;~%2Fgithub%2FAdityanrhm+%24+welcome_to_my_profile!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
