@@ -92,7 +92,7 @@ $ ps aux --sort=-cpu
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrhm&bg_color=0D1117&color=33FF00&line=33FF00&point=FFFFFF&area=true&area_color=33FF00&hide_border=true" width="100%" />
 
-### 🏗 Mounted Projects `~/projects`
+### Mounted Projects `~/projects`
 
 | **Permission** | **Directory** | **Description** |
 |:---:|:---:|:---:|
