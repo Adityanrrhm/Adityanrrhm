@@ -84,10 +84,10 @@ func GetIdentity() Developer {
 
 ### Mounted Projects `~/projects`
 
-| **Permission** | **Directory** | **Description** |
-|:---:|:---:|:---:|
-| `drwxr-xr-x` | **[kas-management](https://github.com/Adityanrhm/kas-management)** | 💸 Financial System (Laravel) |
-| `drwxr-xr-x` | **[softfixer](https://github.com/Adityanrhm/softfixer)** | 🔧 Repair Utility (Web) |
+| Project | Tech | Description | Status |
+|:---|:---:|:---|:---:|
+| **[kas-management](https://github.com/Adityanrhm/kas-management)** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | � Financial management system for tracking transactions | ![Active](https://img.shields.io/badge/🟢-Active-success?style=flat) |
+| **[softfixer](https://github.com/Adityanrhm/softfixer)** | ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat&logo=googlechrome&logoColor=white) | 🔧 Repair shop utility for service management | ![Active](https://img.shields.io/badge/🟢-Active-success?style=flat) |
 
 <br/>
 
