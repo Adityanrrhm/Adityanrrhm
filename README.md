@@ -2,13 +2,15 @@
 
 <!-- macOS Terminal Header -->
 <div align="left">
-  <span style="font-family: monospace; font-size: 16px; color: #4F5D75;">&nbsp;&nbsp;🔴 🟡 🟢 &nbsp; aditya — -zsh — 80x24</span>
+  <span style="font-family: monospace; font-size: 16px; color: #4F5D75;">&nbsp;&nbsp;🔴 🟡 🟢 &nbsp; ~/github/Adityanrhm</span>
 </div>
 
 <!-- Terminal Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=33FF00&background=00000000&center=true&vCenter=true&width=700&height=70&lines=~%2Fgithub%2FAdityanrhm+%24+init_backend_system;~%2Fgithub%2FAdityanrhm+%24+loading_modules...;~%2Fgithub%2FAdityanrhm+%24+welcome_to_my_profile!" alt="Typing SVG" />
-</a>
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=33FF00&background=00000000&vCenter=true&width=700&height=70&lines=%24+init_backend_system;%24+loading_modules...;%24+welcome_to_my_profile!" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/><br/>
 
