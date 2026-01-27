@@ -16,18 +16,18 @@
 
 <br/>
 
-<!-- Social Badges (Dark Mode Style) -->
+<!-- Social Badges (Ghost Style) -->
 <div align="left">
   <a href="https://github.com/Adityanrhm">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&color=21262d"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/adityanrhm">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=21262d"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/adityanrhm">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&color=21262d"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0d1117"/>
   </a>
 </div>
 
