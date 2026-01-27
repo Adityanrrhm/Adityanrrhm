@@ -10,7 +10,7 @@
 <!-- Terminal Typing Effect -->
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=33FF00&background=00000000&vCenter=true&width=700&height=50&lines=Midnight+Compass+here;Guided+by+logic%2C+shaped+by+curiosity;I+engineer+solutions+that+scale;Simplicity+is+my+signature" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=33FF00&background=00000000&vCenter=true&width=700&height=40&lines=$+Aditya+Nur+Rohim+here;$+Guided+by+logic%2C+shaped+by+curiosity;$+I+engineer+solutions+that+scale;$+Simplicity+is+my+signature" alt="Typing SVG" />
   </a>
 </div>
 
