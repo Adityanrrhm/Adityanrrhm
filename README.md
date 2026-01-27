@@ -17,19 +17,9 @@
 <br/>
 
 <!-- Social Badges -->
-<div align="left">
-  <a href="https://github.com/Adityanrhm" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/adityanrhm" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/adityanrhm" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0d1117"/>
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117)](https://github.com/Adityanrhm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117)](https://linkedin.com/in/adityanrhm)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0d1117)](https://instagram.com/adityanrhm)
 
 <br/><br/>
 
@@ -56,7 +46,7 @@ func GetInfo() Developer {
 
 <br/>
 
-### 🛠 Active Processes
+### Active Processes: `~/process`
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,postgres,redis,docker,linux,git,vscode&theme=dark" />
@@ -64,7 +54,7 @@ func GetInfo() Developer {
 
 <br/>
 
-### 📊 System Monitor
+### System Monitor
 
 <div align="left">
   <!-- Stats Cards (Terminal/Dark Theme) -->
@@ -74,7 +64,7 @@ func GetInfo() Developer {
 
 <br/>
 
-### 🏗 Mounted Projects
+### 🏗 Mounted Projects `~/projects`
 
 | **Permission** | **Directory** | **Description** |
 |:---:|:---:|:---:|
