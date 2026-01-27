@@ -1,104 +1,103 @@
 <div align="center">
-
-<!-- REAL GLASSMORPHISM HEADER -->
-<!-- Using a baked gradient background with a 'frosted' overlay effect simulated via Capsule Render with specific colors -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,50:0d1117&height=250&section=header&text=Aditya%20Nur%20Rohim&fontSize=40&fontColor=b3e5fc&fontAlignY=35&desc=Backend%20Engineering%20%E2%80%A2%20Scalable%20Systems&descSize=18&descAlignY=55&stroke=0ea5e9&strokeWidth=1" width="100%" />
-
-<br/>
-
-<!-- Floating Glass Social Badges (No Border, Transparent BG Look) -->
-<a href="https://github.com/Adityanrhm">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&color=21262d" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/adityanrhm">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=21262d" />
-</a>
-&nbsp;
-<a href="https://instagram.com/adityanrhm">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&color=21262d" />
-</a>
-
-<br/><br/>
-
-<!-- Glassy Divide Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,50:30363d,100:21262d&height=1&width=80%" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=33FF00&background=00000000&center=true&vCenter=true&width=600&height=80&lines=%3E+Hello+World!+%F0%9F%91%8B;%3E+welcome_to_my_profile.sh;%3E+init_backend_systems..." alt="Terminal Typing" />
 </div>
 
-### 🔮 About Me
+<!-- macOS Terminal Window Container -->
+<div align="center">
+  <table style="border-collapse: collapse; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+    <!-- Window Header -->
+    <thead style="background: #2D2D2D;">
+      <tr>
+        <th align="left" style="padding: 10px 15px;">
+          <img src="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/main/img/mac_buttons.png" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mac_OS_X_user_interface_buttons.svg/200px-Mac_OS_X_user_interface_buttons.svg.png'" width="60" alt="🔴🟡🟢" />
+          &nbsp;&nbsp;
+          <span style="font-family: monospace; color: #8F8F8F; font-size: 14px;">aditya — -zsh — 80x24</span>
+        </th>
+      </tr>
+    </thead>
+    <!-- Window Body -->
+    <tbody>
+      <tr>
+        <td style="background: #0D1117; padding: 20px; font-family: 'Courier New', Courier, monospace; color: #D4D4D4;">
+          
+          <!-- Command 1: Who Am I -->
+          <p>
+            <span style="color: #33FF00;">➜</span> <span style="color: #00FFFF;">~</span> <span style="color: #F8F8F2;">whoami</span>
+          </p>
+          <div style="padding-left: 20px; color: #E6E6E6;">
+            <b>Aditya Nur Rohim</b><br>
+            Backend Developer • CS Student • Indonesia
+          </div>
 
+          <br>
+
+          <!-- Command 2: About (Go Struct) -->
+          <p>
+            <span style="color: #33FF00;">➜</span> <span style="color: #00FFFF;">~</span> <span style="color: #F8F8F2;">cat about_me.go</span>
+          </p>
+          
 ```go
 type User struct {
     Username  string
     Role      string
-    Status    string
     Mission   string
-    Learning  []string
+    Stack     []string
 }
 
 func GetProfile() User {
     return User{
-        Username:  "Adityanrhm",
-        Role:      "Backend Developer",
-        Status:    "Studying Computer Science",
-        Mission:   "Writing clean code & exploring scalable systems",
-        Learning:  []string{
-            "Go Concurrency",
-            "Microservices Architecture",
-        },
+        Username: "Adityanrhm",
+        Role:     "Backend Developer",
+        Mission:  "Build scalable systems",
+        Stack:    []string{"Go", "Laravel", "SQL"},
     }
 }
 ```
 
-<br/>
+          <br>
 
-### 🛠 Tech Stack
+          <!-- Command 3: LS Tech Stack -->
+          <p>
+            <span style="color: #33FF00;">➜</span> <span style="color: #00FFFF;">~</span> <span style="color: #F8F8F2;">ls -la ./skills</span>
+          </p>
+          <div align="left" style="padding-left: 20px;">
+            <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,git,docker,linux,vscode&theme=dark" />
+          </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,git,docker,linux,vscode&theme=dark" />
+          <br>
+
+          <!-- Command 4: Connect -->
+          <p>
+            <span style="color: #33FF00;">➜</span> <span style="color: #00FFFF;">~</span> <span style="color: #F8F8F2;">./social_links.sh</span>
+          </p>
+          <div style="padding-left: 20px;">
+            <a href="https://github.com/Adityanrhm"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+            <a href="https://linkedin.com/in/adityanrhm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+            <a href="https://instagram.com/adityanrhm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+          </div>
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
-<br/>
-
-### 📊 Vital Stats
+<br>
 
 <div align="center">
-
-<!-- Stats with Transparent/Glass Theme (Simulating Frosted Effect) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=b3e5fc&icon_color=38bdf8&ring_color=38bdf8&bg_color=21,38,45,0.4" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=b3e5fc&bg_color=21,38,45,0.4" height="170" />
-
+  <!-- Terminal Themed Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=calm&hide_border=true&bg_color=0D1117&title_color=33FF00&icon_color=33FF00&text_color=D4D4D4" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=calm&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4" height="150" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityanrhm&theme=transparent&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=b3e5fc&currStreakLabel=38bdf8&sideLabels=b3e5fc&dates=b3e5fc&background=0d111700" width="80%" />
-</div>
-
-<br/>
-
-### 🏗 Featured Projects
-
-| **[kas-management](https://github.com/Adityanrhm/kas-management)** | **[softfixer](https://github.com/Adityanrhm/softfixer)** |
-|:---:|:---:|
-| 💸 Financial Management System | 🔧 Software Repair Utility |
-| `Laravel` `MySQL` `Bootstrap` | `HTML` `CSS` `JS` |
-
-<br/>
+<br>
 
 <div align="center">
-
-<!-- Snake Animation (Glassy Dark) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
-<!-- Footer Gradient to fade out -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%" />
-
+  <!-- Snake acts as 'screensaver' -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" width="100%" />
+  </picture>
+  <br>
+  <code style="color: #8F8F8F;">Last login: Now on ttys001</code>
 </div>
