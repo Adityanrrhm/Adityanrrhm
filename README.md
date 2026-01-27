@@ -1,60 +1,89 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=180&section=header&text=Aditya%20Nur%20Rohim&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Backend%20Developer%20•%20Student&descSize=16&descAlignY=52"/>
+<div align="center">
 
-### Hey there 👋
+<!-- Glassy Header with Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Building+Backends+with+Go+%26+Laravel;Glassmorphism+Mode+Activated+%E2%9C%A8" alt="Typing SVG" />
 
-I'm a Computer Science student from Indonesia who enjoys building things that live on the internet.
+<br/>
 
-Currently exploring **Go** and **Laravel** — trying to write clean code and not break production.
+<!-- Social Badges with "Glass" style (Flat Square + Custom Color) -->
+<a href="https://github.com/Adityanrhm">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=30363d" />
+</a>
+<a href="https://linkedin.com/in/adityanrhm">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=30363d" />
+</a>
+<a href="https://instagram.com/adityanrhm">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=30363d" />
+</a>
 
----
+<br/><br/>
 
-#### What I'm up to
+<!-- About Card (Simulated Glass with Blockquote/Code) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,100:0d1117&height=2&width=100%" />
 
-- 🎓 Studying Computer Science
-- 🔧 Building backend systems with Go & Laravel  
-- 📚 Learning something new every day
+</div>
 
-#### Tech Stack
+### 🔮 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,git,linux,docker,vscode&theme=dark" />
-</p>
+```yaml
+user: Adityanrhm
+role: Backend Developer
+status: Studying Computer Science
+mission: Writing clean code & exploring scalable systems
+currently_learning: 
+  - Go Concurrency
+  - Microservices Architecture
+```
 
-#### Connect
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Adityanrhm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityanrhm)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/adityanrhm)
+### 🛠 Tech Stack
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,git,docker,linux,vscode&theme=dark" />
+</div>
 
-<details>
-<summary>📊 GitHub Stats</summary>
-<br>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+### 📊 Vital Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityanrhm&theme=tokyonight&hide_border=true&background=0d1117"/>
+<!-- Stats with Transparent/Glass Theme -->
+<!-- Using 'transparent' bg to let GitHub's dark mode show through, giving a clean look -->
+<img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&ring_color=0ea5e9&bg_color=30,30,30,0.5" height="170" alt="GitHub Stats" />
 
-</details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=ffffff&bg_color=30,30,30,0.5" height="170" alt="Top Languages" />
 
-<details>
-<summary>🐍 Contribution Snake</summary>
-<br>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityanrhm&theme=transparent&hide_border=true&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakNum=ffffff&currStreakLabel=0ea5e9&sideLabels=ffffff&dates=ffffff&background=0d111700" alt="Streak Stats" />
+</div>
+
+<br/>
+
+### 🏗 Featured Projects
+
+| **[kas-management](https://github.com/Adityanrhm/kas-management)** | **[softfixer](https://github.com/Adityanrhm/softfixer)** |
+|:---:|:---:|
+| 💸 Financial Management System | 🔧 Software Repair Utility |
+| `Laravel` `MySQL` `Bootstrap` | `HTML` `CSS` `JS` |
+
+<br/>
+
+<div align="center">
+
+<!-- Snake Animation (Glassy Dark) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-> ⚠️ Snake animation requires GitHub Actions setup. See [snk action](https://github.com/Platane/snk) for details.
+<br/><br/>
 
-</details>
+<!-- Footer Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:30363d&height=5&width=100%" />
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=100&section=footer"/>
+</div>
