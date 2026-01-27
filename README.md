@@ -1,70 +1,92 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=600&height=80&lines=%3E+Hello+World!+%F0%9F%91%8B;%3E+I'm+Aditya+Nur+Rohim;%3E+Backend+Engineering+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<!-- RICH GRADIENT HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,30&height=280&section=header&text=Aditya%20Nur%20Rohim&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20Go%20%26%20Laravel&descSize=20&descAlignY=60&animation=fadeIn&stroke=ffffff" width="100%" />
+
+<!-- Typing Effect Sub-header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=500&height=60&lines=%3E+init_system(backend);%3E+loading_modules...;%3E+status%3A+online+%E2%9C%85" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Social Badges (Clean Dark Style) -->
+<!-- Social Dock -->
 <a href="https://github.com/Adityanrhm">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/adityanrhm">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/adityanrhm">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0d1117"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
-
 </div>
 
-<!-- Terminal-like About Section using Code Block (Always works) -->
-```go
-package profile
+### 👨‍💻 Identity Matrix
 
-type SoftwareEngineer struct {
-    Name     string
-    Role     string
-    Mission  string
-    Stack    []string
+```go
+package identity
+
+// Current Status: Compiling Life...
+type Developer struct {
+    Name    string
+    Role    string
+    Focus   []string
+    Arsenal []string
 }
 
-func main() {
-    me := SoftwareEngineer{
-        Name:    "Aditya Nur Rohim",
-        Role:    "Backend Developer 🇮🇩",
-        Mission: "Building scalable & reliable systems",
-        Stack:   []string{"Go", "Laravel", "MySQL", "Docker"},
+func GetStats() Developer {
+    return Developer{
+        Name:  "Aditya Nur Rohim",
+        Role:  "Backend Specialist 🇮🇩",
+        Focus: []string{
+            "High Performance APIs", 
+            "Microservices", 
+            "Scalable Systems",
+        },
+        Arsenal: []string{
+            "Golang", "Laravel", "Docker", "Redis",
+        },
     }
 }
 ```
 
 <br/>
 
-### 🛠 Tech Stack
+### 🛠 Command Center
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,git,docker,linux,vscode&theme=dark" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,postgres,redis,docker,linux,git,vscode&theme=dark&perline=10" />
 </div>
 
 <br/>
 
-### 📊 Vital Stats
+### 📊 Telemetry Data
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="150" />
+<div align="center">
+  <!-- Stats Cards Grid -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=ffffff" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityanrhm&theme=radical&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FF0055&currStreakNum=ffffff&currStreakLabel=38BDF8&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 <br/>
 
-### 🏗 Featured Projects
+### 🚀 Mission Log
 
-| **[kas-management](https://github.com/Adityanrhm/kas-management)** | **[softfixer](https://github.com/Adityanrhm/softfixer)** |
-|:---:|:---:|
-| 💸 Financial Management System | 🔧 Software Repair Utility |
-| `Laravel` `MySQL` `Bootstrap` | `HTML` `CSS` `JS` |
+| **Project** | **Codename** | **Tech** |
+|:---:|:---:|:---:|
+| **[Financial System](https://github.com/Adityanrhm/kas-management)** | `kas-management` | `Laravel` `MySQL` |
+| **[System Repair](https://github.com/Adityanrhm/softfixer)** | `softfixer` | `HTML/CSS` `JS` |
 
 <br/>
 
@@ -74,4 +96,8 @@ func main() {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" width="100%" />
   </picture>
+  
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,30&height=100&section=footer&fontSize=0" width="100%" />
 </div>
