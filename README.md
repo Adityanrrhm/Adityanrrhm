@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- macOS Terminal Header -->
-<p>
+<div align="left">
   <span style="font-family: monospace; font-size: 16px; color: #4F5D75;">&nbsp;&nbsp;🔴 🟡 🟢 &nbsp; aditya — -zsh — 80x24</span>
-</p>
+</div>
 
 <!-- Terminal Typing Effect -->
 <a href="https://git.io/typing-svg">
