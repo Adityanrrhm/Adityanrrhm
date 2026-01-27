@@ -30,16 +30,24 @@ package profile
 
 // User Identity
 type Developer struct {
-    Name    string
-    Role    string
-    Stack   []string
+    Name     string
+    Role     string
+    Location string
+    Status   string
+    Stack    []string
+    Learning []string
+    Motto    string
 }
 
-func GetInfo() Developer {
+func GetIdentity() Developer {
     return Developer{
-        Name:  "Aditya Nur Rohim",
-        Role:  "Backend Engineer 🇮🇩",
-        Stack: []string{"Go", "Laravel", "MySQL", "Docker"},
+        Name:     "Aditya Nur Rohim",
+        Status:   "Student Computer Science",
+        Role:     "Backend Engineer 🇮🇩",
+        Location: "Sidoarjo, Indonesia",
+        Stack:    []string{"Go", "Laravel", "Postgres", "Redis", "Docker", "Linux", "Git"},
+        Learning: []string{"Kubernetes", "gRPC", "Microservices"},
+        Motto:    "Simplicity is the ultimate sophistication",
     }
 }
 ```
