@@ -1,11 +1,13 @@
 <!-- macOS Terminal Header -->
 <div align="left">
-  <span style="font-family: monospace; font-size: 18px; color: #D4D4D4;">
-    &nbsp;&nbsp;🔴 🟡 🟢 &nbsp; 
-    <span style="color: #38BDF8; font-size:18px"><b>~</b></span><span style="color: #64748B; font-size:18px">/</span><span style="color: #4ADE80; font-size:18px"><b>github</b></span><span style="color: #64748B; font-size:18px">/</span><span style="color: #A78BFA; font-size:18px"><b>Adityanrhm</b></span>
-  </span>
-  <br/>
+<!-- macOS Terminal Header -->
+<div align="left">
+  <h3 style="font-family: monospace; font-weight: normal; margin: 0;">
+    <span style="color: #D4D4D4;">&nbsp;&nbsp;🔴 🟡 🟢 &nbsp;</span>
+    <span style="color: #38BDF8;">~</span><span style="color: #64748B;">/</span><span style="color: #4ADE80;">github</span><span style="color: #64748B;">/</span><span style="color: #A78BFA;">Adityanrhm</span>
+  </h3>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2&width=100%" />
+</div>
 </div>
 
 <!-- Terminal Typing Effect -->
