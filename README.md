@@ -25,14 +25,27 @@
 
 ### 🔮 About Me
 
-```yaml
-user: Adityanrhm
-role: Backend Developer
-status: Studying Computer Science
-mission: Writing clean code & exploring scalable systems
-currently_learning: 
-  - Go Concurrency
-  - Microservices Architecture
+```go
+type User struct {
+    Username  string
+    Role      string
+    Status    string
+    Mission   string
+    Learning  []string
+}
+
+func GetProfile() User {
+    return User{
+        Username:  "Adityanrhm",
+        Role:      "Backend Developer",
+        Status:    "Studying Computer Science",
+        Mission:   "Writing clean code & exploring scalable systems",
+        Learning:  []string{
+            "Go Concurrency",
+            "Microservices Architecture",
+        },
+    }
+}
 ```
 
 <br/>
