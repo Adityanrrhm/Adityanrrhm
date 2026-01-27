@@ -57,15 +57,9 @@ func GetIdentity() Developer {
 
 <br/>
 
-### Active Processes: `~/process`
+### Tech Stack: `~/tools`
 
-**Backend** &nbsp;&nbsp; ![Go](https://skillicons.dev/icons?i=go&theme=dark) ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) ![PHP](https://skillicons.dev/icons?i=php&theme=dark)
-
-**Database** &nbsp;&nbsp; ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
-
-**DevOps** &nbsp;&nbsp; ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark)
-
-<br/>
+<img src="https://skillicons.dev/icons?i=go,laravel,php,postgres,mysql,redis,docker,linux,git&theme=dark" />
 
 ### System Monitor: `~/monitor`
 
