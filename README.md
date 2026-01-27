@@ -59,15 +59,11 @@ func GetIdentity() Developer {
 
 ### Active Processes: `~/process`
 
-```bash
-$ ps aux --sort=-cpu
-```
+**Backend** &nbsp;&nbsp; ![Go](https://skillicons.dev/icons?i=go&theme=dark) ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) ![PHP](https://skillicons.dev/icons?i=php&theme=dark)
 
-| Category | Processes |
-|:---|:---|
-| **Backend** | ![Go](https://skillicons.dev/icons?i=go&theme=dark) ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) ![PHP](https://skillicons.dev/icons?i=php&theme=dark) |
-| **Database** | ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![Redis](https://skillicons.dev/icons?i=redis&theme=dark) |
-| **DevOps** | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark) |
+**Database** &nbsp;&nbsp; ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
+
+**DevOps** &nbsp;&nbsp; ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 
 <br/>
 
