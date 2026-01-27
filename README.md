@@ -10,7 +10,7 @@
 <!-- Terminal Typing Effect -->
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=33FF00&background=00000000&vCenter=true&width=700&height=50&lines=%24+init_backend_system;%24+loading_modules...;%24+welcome_to_my_profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=33FF00&background=00000000&vCenter=true&width=700&height=50&lines=Midnight+Compass+here;Guided+by+logic%2C+shaped+by+curiosity;I+engineer+solutions+that+scale;Simplicity+is+my+signature" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 
 <br/><br/>
 
-### � File System: `~/identity`
+### File System: `~/identity`
 
 ```go
 package profile
