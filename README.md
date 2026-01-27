@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- macOS Terminal Header -->
 <div align="left">
   <span style="font-family: monospace; font-size: 18px; color: #D4D4D4;">
@@ -31,10 +29,9 @@
   <a href="https://instagram.com/adityanrhm">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&color=21262d"/>
   </a>
-</a>
+</div>
 
 <br/><br/>
-</div>
 
 ### � File System: `~/identity`
 
