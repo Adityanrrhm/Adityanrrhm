@@ -59,19 +59,25 @@ func GetIdentity() Developer {
 
 ### Active Processes: `~/process`
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,postgres,redis,docker,linux,git&theme=dark" />
-</div>
+```bash
+$ ps aux --sort=-cpu
+```
+
+| Category | Processes |
+|:---|:---|
+| **Backend** | ![Go](https://skillicons.dev/icons?i=go&theme=dark) ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) ![PHP](https://skillicons.dev/icons?i=php&theme=dark) |
+| **Database** | ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![Redis](https://skillicons.dev/icons?i=redis&theme=dark) |
+| **DevOps** | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark) |
 
 <br/>
 
-### System Monitor
+### System Monitor: `~/monitor`
 
 <div align="left">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4&icon_color=33FF00" height="165" />
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Adityanrhm&theme=highcontrast&hide_border=true&background=0D1117&ring=33FF00&fire=FF6B6B&currStreakLabel=33FF00&sideLabels=D4D4D4&currStreakNum=FFFFFF&dates=64748B" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Adityanrhm&theme=dark&hide_border=true&background=0D1117&stroke=33FF00&ring=33FF00&fire=FF6B6B&currStreakLabel=33FF00" height="165" />
 </div>
 
 <br/>
