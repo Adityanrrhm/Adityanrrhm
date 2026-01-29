@@ -1,102 +1,100 @@
-<!-- macOS Terminal Header -->
+<!-- Terminal Header -->
 <div align="left">
-  <h4 style="font-family: monospace; font-weight: normal; margin: 0;">
-    <span style="color: #D4D4D4;">&nbsp;&nbsp;🔴 🟡 🟢 &nbsp;</span>
-    <span style="color: #38BDF8;">~</span><span style="color: #64748B;">/</span><span style="color: #4ADE80;">github</span><span style="color: #64748B;">/</span><span style="color: #A78BFA;">Adityanrhm</span>
-  </h4>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2&width=100%" />
+  <h3 style="font-family: 'JetBrains Mono', Consolas, monospace; font-weight: normal; margin-top: 5px;">
+    &nbsp;<span style="font-size: 14px;">🔴 🟡 🟢</span>
+    &nbsp;&nbsp;
+    <span style="color: #38BDF8;">~</span><span style="color: #64748B;">/</span><span style="color: #4ADE80;">identity</span><span style="color: #64748B;">/</span><span style="color: #A78BFA;">Adityanrhm</span>
+  </h3>
 </div>
 
-<!-- Terminal Typing Effect -->
+<!-- Typing Intro -->
 <div align="left">
-  <a href="https://git.io/typing-svg" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=E5E7EB&background=00000000&vCenter=true&width=700&height=40&lines=$+whoami;$+Aditya+Nur+Rohim+here;$+Guided+by+logic%2C+shaped+by+curiosity;$+I+engineer+solutions+that+scale;$+Simplicity+is+my+signature" alt="Typing SVG" />
+  &nbsp;&nbsp;<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=D4D4D4&background=00000000&vCenter=true&width=600&lines=$+whoami;>+Backend+Engineer+%26+CS+Student;>+Building+scalable+systems...;>+Simplicity+is+my+signature." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Adityanrhm&color=33FF00&style=flat-square&label=Terminal+Visitors)
-
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117)](https://github.com/Adityanrhm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117)](https://linkedin.com/in/adityanrhm)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0d1117)](https://instagram.com/adtyanrhm)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117)](mailto:adityanurrohim19@gmail.com)
+<!-- Visitor Counter & Badges -->
+<div align="left">
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Adityanrhm&color=33FF00&style=flat-square&label=VISITORS" height="20"/>
+  &nbsp;
+  <a href="https://github.com/Adityanrhm"><img src="https://img.shields.io/badge/git-connect-lightgrey?style=flat-square&logo=github&logoColor=black&labelColor=white" height="20"/></a>
+  <a href="https://linkedin.com/in/adityanrhm"><img src="https://img.shields.io/badge/in-connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20"/></a>
+  <a href="https://instagram.com/adtyanrhm"><img src="https://img.shields.io/badge/ig-follow-E4405F?style=flat-square&logo=instagram&logoColor=white" height="20"/></a>
+</div>
 
 <br/>
 
-### File System: `~/identity`
+### ` $ cat user_profile.go `
 
 ```go
-package profile
+package main
 
-// User Identity
+import "fmt"
+
 type Developer struct {
-    Name         string
-    Role         string
-    Location     string
-    Status       string
-    Stack        []string
-    Learning     []string
-    CurrentFocus string
-    OpenToWork   bool
-    Motto        string
+    Name       string
+    Role       string
+    Location   string
+    Stack      []string
+    Learning   []string
+    OpenToWork bool
 }
 
-func GetIdentity() Developer {
-    return Developer{
-        Name:         "Aditya Nur Rohim",
-        Status:       "Computer Science Student",
-        Role:         "Backend Engineer 🇮🇩",
-        Location:     "Sidoarjo, Indonesia",
-        Stack:        []string{"Go", "Laravel", "Postgres", "Redis", "Docker", "Linux", "Git"},
-        Learning:     []string{"Kubernetes", "gRPC", "Microservices"},
-        CurrentFocus: "Building scalable backend services",
-        OpenToWork:   true,
-        Motto:        "Simplicity is the ultimate sophistication",
+func main() {
+    me := Developer{
+        Name:       "Aditya Nur Rohim",
+        Role:       "Backend Engineer 🇮🇩",
+        Location:   "Sidoarjo, Indonesia",
+        Stack:      []string{"Go", "Laravel", "Postgres", "Redis", "Docker"},
+        Learning:   []string{"Kubernetes", "gRPC", "Microservices"},
+        OpenToWork: true,
     }
+    
+    fmt.Printf("Hello, I build systems that scale. \n%+v\n", me)
 }
 ```
 
 <br/>
 
-### Tech Stack: `~/tools`
-
-<img src="https://skillicons.dev/icons?i=go,laravel,php,postgres,mysql,redis,docker,linux,git&theme=dark" />
-
-### System Monitor: `~/monitor`
+### ` $ neofetch --backend `
 
 <div align="left">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4&icon_color=33FF00" height="165" />
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Adityanrhm&theme=dark&hide_border=true&background=0D1117&stroke=33FF00&ring=33FF00&fire=FF6B6B&currStreakLabel=33FF00" height="165" />
+  &nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go,php,js,laravel,postgres,mysql,redis,docker,linux,git,vscode&theme=dark" />
 </div>
 
 <br/>
 
+### ` $ ls -l ./projects `
+
+| Permission | Owner | Name | Stack | Description | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `drwxr-xr-x` | `aditya` | **[kas-management](https://github.com/Adityanrhm/kas-management)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Transaction Strategy System | 🟢 |
+| `drwxr-xr-x` | `aditya` | **[softfixer](https://github.com/Adityanrhm/softfixer)** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | Service Management Utility | 🟢 |
+
+<br/>
+
+### ` $ htop --sort-key=PERCENT_CPU `
+
 <div align="left">
-  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4&icon_color=33FF00" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4&hide=html,css" height="150" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrhm&bg_color=0D1117&color=33FF00&line=33FF00&point=FFFFFF&area=true&area_color=33FF00&hide_border=true" width="100%" />
+### ` $ git log --graph --oneline `
 
-### Mounted Projects `~/projects`
-
-| Project | Tech | Description | Status |
-|:---|:---:|:---|:---:|
-| **[kas-management](https://github.com/Adityanrhm/kas-management)** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | Financial management system for tracking transactions | ![Active](https://img.shields.io/badge/🟢-Active-success?style=flat) |
-| **[softfixer](https://github.com/Adityanrhm/softfixer)** | ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat&logo=googlechrome&logoColor=white) | Repair shop utility for service management | ![Active](https://img.shields.io/badge/🟢-Active-success?style=flat) |
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrhm&bg_color=0D1117&color=4ADE80&line=4ADE80&point=FFFFFF&area=true&area_color=4ADE80&hide_border=true" width="100%" />
+</div>
 
 <br/>
 
-<!-- Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" />
@@ -107,11 +105,6 @@ func GetIdentity() Developer {
 
 <br/>
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=33FF00&height=120&section=footer" width="100%" />
-</div>
-
-<div align="center">
-  <code>EOF: Thanks for visiting my terminal. Happy coding! 🚀</code>
+  <code>sender: adityanrhm@github ~ $ exit 0_</code>
 </div>
