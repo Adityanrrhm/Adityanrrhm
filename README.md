@@ -16,15 +16,21 @@
 
 <br/>
 
+<!-- Visitor Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Adityanrhm&color=33FF00&style=flat-square&label=Terminal+Visitors)
+
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117)](https://github.com/Adityanrhm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117)](https://linkedin.com/in/adityanrhm)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0d1117)](https://instagram.com/adtyanrhm)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=0d1117)](https://discord.com/users/YOUR_DISCORD_ID)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117)](mailto:adityanurrohim19@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&color=0d1117)](https://yourwebsite.com)
 
-<br/><br/>
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Adityanrhm&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+<br/>
 
 ### File System: `~/identity`
 
@@ -33,24 +39,28 @@ package profile
 
 // User Identity
 type Developer struct {
-    Name     string
-    Role     string
-    Location string
-    Status   string
-    Stack    []string
-    Learning []string
-    Motto    string
+    Name         string
+    Role         string
+    Location     string
+    Status       string
+    Stack        []string
+    Learning     []string
+    CurrentFocus string
+    OpenToWork   bool
+    Motto        string
 }
 
 func GetIdentity() Developer {
     return Developer{
-        Name:     "Aditya Nur Rohim",
-        Status:   "Student Computer Science",
-        Role:     "Backend Engineer 🇮🇩",
-        Location: "Sidoarjo, Indonesia",
-        Stack:    []string{"Go", "Laravel", "Postgres", "Redis", "Docker", "Linux", "Git"},
-        Learning: []string{"Kubernetes", "gRPC", "Microservices"},
-        Motto:    "Simplicity is the ultimate sophistication",
+        Name:         "Aditya Nur Rohim",
+        Status:       "Computer Science Student",
+        Role:         "Backend Engineer 🇮🇩",
+        Location:     "Sidoarjo, Indonesia",
+        Stack:        []string{"Go", "Laravel", "Postgres", "Redis", "Docker", "Linux", "Git"},
+        Learning:     []string{"Kubernetes", "gRPC", "Microservices"},
+        CurrentFocus: "Building scalable backend services",
+        OpenToWork:   true,
+        Motto:        "Simplicity is the ultimate sophistication",
     }
 }
 ```
@@ -91,10 +101,22 @@ func GetIdentity() Developer {
 
 <br/>
 
+<!-- Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" width="100%" />
   </picture>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=33FF00&height=120&section=footer" width="100%" />
+</div>
+
+<div align="center">
+  <code>EOF: Thanks for visiting my terminal. Happy coding! 🚀</code>
 </div>
