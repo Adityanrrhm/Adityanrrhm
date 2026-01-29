@@ -1,102 +1,84 @@
-<!-- macOS Terminal Header -->
-<div align="left">
-  <h4 style="font-family: monospace; font-weight: normal; margin: 0;">
-    <span style="color: #D4D4D4;">&nbsp;&nbsp;🔴 🟡 🟢 &nbsp;</span>
-    <span style="color: #38BDF8;">~</span><span style="color: #64748B;">/</span><span style="color: #4ADE80;">github</span><span style="color: #64748B;">/</span><span style="color: #A78BFA;">Adityanrhm</span>
-  </h4>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2&width=100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Aditya%20Nur%20Rohim&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=40" width="100%" />
+
+  <h3 align="center">Backend Engineer & Computer Science Student 🇮🇩</h3>
+  
+  <p align="center">
+     I build scalable backend systems and engineer solutions that matter.
+     <br/>
+     "Simplicity is the ultimate sophistication"
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/Adityanrhm">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/adityanrhm">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/adtyanrhm">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:adityanurrohim19@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-<!-- Terminal Typing Effect -->
-<div align="left">
-  <a href="https://git.io/typing-svg" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=E5E7EB&background=00000000&vCenter=true&width=700&height=40&lines=$+whoami;$+Aditya+Nur+Rohim+here;$+Guided+by+logic%2C+shaped+by+curiosity;$+I+engineer+solutions+that+scale;$+Simplicity+is+my+signature" alt="Typing SVG" />
-  </a>
+---
+
+### 👨‍💻 About Me
+
+I'm a **Backend Engineer** based in **Sidoarjo, Indonesia**, currently pursuing a degree in Computer Science. My passion lies in designing robust architectures and optimizing system performance. I enjoy diving deep into backend technologies, from distributed systems to database optimization.
+
+- 🔭 **Current Focus:** Building scalable backend services and learning **Kubernetes**, **gRPC**, and **Microservices architecture**.
+- 🛠 **Daily Drivers:** Go, Laravel, Docker, PostgreSQL.
+- 🤝 **Open to:** Collaborations on backend tooling and open-source projects.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Core Languages** | **Frameworks & Tools** | **Infrastructure & DevOps** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=go,php,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=laravel,git,vscode&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,postgres,redis,mysql,linux&theme=dark" /> |
+
 </div>
 
-<br/>
+---
 
-<!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Adityanrhm&color=33FF00&style=flat-square&label=Terminal+Visitors)
+### 🚀 Featured Projects
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117)](https://github.com/Adityanrhm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117)](https://linkedin.com/in/adityanrhm)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0d1117)](https://instagram.com/adtyanrhm)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117)](mailto:adityanurrohim19@gmail.com)
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[kas-management](https://github.com/Adityanrhm/kas-management)** | Financial management system designed for tracking transactions efficiently. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | 🟢 |
+| **[softfixer](https://github.com/Adityanrhm/softfixer)** | A utility platform for repair shop service management and tracking. | ![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | 🟢 |
 
-<br/>
+---
 
-### File System: `~/identity`
+### 📊 GitHub Stats
 
-```go
-package profile
-
-// User Identity
-type Developer struct {
-    Name         string
-    Role         string
-    Location     string
-    Status       string
-    Stack        []string
-    Learning     []string
-    CurrentFocus string
-    OpenToWork   bool
-    Motto        string
-}
-
-func GetIdentity() Developer {
-    return Developer{
-        Name:         "Aditya Nur Rohim",
-        Status:       "Computer Science Student",
-        Role:         "Backend Engineer 🇮🇩",
-        Location:     "Sidoarjo, Indonesia",
-        Stack:        []string{"Go", "Laravel", "Postgres", "Redis", "Docker", "Linux", "Git"},
-        Learning:     []string{"Kubernetes", "gRPC", "Microservices"},
-        CurrentFocus: "Building scalable backend services",
-        OpenToWork:   true,
-        Motto:        "Simplicity is the ultimate sophistication",
-    }
-}
-```
-
-<br/>
-
-### Tech Stack: `~/tools`
-
-<img src="https://skillicons.dev/icons?i=go,laravel,php,postgres,mysql,redis,docker,linux,git&theme=dark" />
-
-### System Monitor: `~/monitor`
-
-<div align="left">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4&icon_color=33FF00" height="165" />
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Adityanrhm&theme=dark&hide_border=true&background=0D1117&stroke=33FF00&ring=33FF00&fire=FF6B6B&currStreakLabel=33FF00" height="165" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&hide=html,css" height="150" alt="languages" />
 </div>
 
 <br/>
 
-<div align="left">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4&hide=html,css" height="150" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Adityanrhm&theme=gotham&hide_border=true&background=0D1117" height="150" alt="streak" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrhm&bg_color=0D1117&color=33FF00&line=33FF00&point=FFFFFF&area=true&area_color=33FF00&hide_border=true" width="100%" />
-
-### Mounted Projects `~/projects`
-
-| Project | Tech | Description | Status |
-|:---|:---:|:---|:---:|
-| **[kas-management](https://github.com/Adityanrhm/kas-management)** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | Financial management system for tracking transactions | ![Active](https://img.shields.io/badge/🟢-Active-success?style=flat) |
-| **[softfixer](https://github.com/Adityanrhm/softfixer)** | ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat&logo=googlechrome&logoColor=white) | Repair shop utility for service management | ![Active](https://img.shields.io/badge/🟢-Active-success?style=flat) |
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrhm&bg_color=0D1117&color=5bcdec&line=5bcdec&point=FFFFFF&area=true&area_color=5bcdec&hide_border=true" width="100%" />
+</div>
 
 <br/>
 
-<!-- Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityanrhm/Adityanrhm/output/github-snake-dark.svg" />
@@ -105,13 +87,7 @@ func GetIdentity() Developer {
   </picture>
 </div>
 
-<br/>
-
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=33FF00&height=120&section=footer" width="100%" />
-</div>
-
-<div align="center">
-  <code>EOF: Thanks for visiting my terminal. Happy coding! 🚀</code>
+  <br />
+  <p><i>Let's build something amazing together.</i></p>
 </div>
