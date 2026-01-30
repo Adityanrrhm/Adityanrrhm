@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&hide=html,css" height="140" />
 </p>
 
-### ` $ git log --graph --oneline `
+### ` $ tail -f ~/activity.log `
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrhm&bg_color=0D1117&color=64748B&line=94A3B8&point=CBD5E1&area=true&area_color=1E293B&hide_border=true" width="100%" />
