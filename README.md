@@ -1,35 +1,21 @@
 <!-- Terminal Header -->
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2&width=100%" />
-  <h3 style="font-family: 'JetBrains Mono', Consolas, monospace; font-weight: normal; margin-top: 5px;">
-    &nbsp;<span style="font-size: 14px;">🔴 🟡 🟢</span>
-    &nbsp;&nbsp;
-    <span style="color: #38BDF8;">~</span><span style="color: #64748B;">/</span><span style="color: #4ADE80;">identity</span><span style="color: #64748B;">/</span><span style="color: #A78BFA;">Adityanrhm</span>
-  </h3>
+  <h3>🔴 🟡 🟢  ~/identity/Adityanrhm</h3>
 </div>
 
 <!-- Typing Intro -->
-<div align="left">
-  &nbsp;&nbsp;<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=D4D4D4&background=00000000&vCenter=true&width=600&lines=$+whoami;>+Backend+Engineer+%26+CS+Student;>+Building+scalable+systems...;>+Simplicity+is+my+signature." alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=D4D4D4&background=00000000&vCenter=true&width=600&lines=$+whoami;>+Backend+Engineer+%26+CS+Student;>+Building+scalable+systems...;>+Simplicity+is+my+signature." alt="Typing SVG" />
+</a>
 
 <!-- Social Links - Steel Theme -->
-<p align="left">
+<p>
   <a href="https://github.com/Adityanrhm"><img src="https://img.shields.io/badge/GitHub-Adityanrhm-64748B?style=flat-square&logo=github&logoColor=white&labelColor=1E293B" height="22"/></a>
   <a href="https://linkedin.com/in/adityanrhm"><img src="https://img.shields.io/badge/LinkedIn-connect-64748B?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E293B" height="22"/></a>
   <a href="https://instagram.com/adtyanrhm"><img src="https://img.shields.io/badge/Instagram-follow-64748B?style=flat-square&logo=instagram&logoColor=white&labelColor=1E293B" height="22"/></a>
 </p>
 
-<!-- GitHub Trophy -->
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityanrhm&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10" />
-</p>
-
-<br/>
 
 ### ` $ cat user_profile.go `
 
