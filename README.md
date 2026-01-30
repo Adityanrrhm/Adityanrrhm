@@ -17,49 +17,31 @@
 </p>
 
 
-### ` $ cat user_profile.go `
+### ` $ cat profile.json `
 
-```go
-package main
-
-// Developer represents a software engineer profile
-type Developer struct {
-    Name       string
-    Title      string
-    Location   string
-    Education  string
-    Experience []string
-    Expertise  []string
-    Learning   []string
-    Available  bool
-}
-
-func main() {
-    aditya := Developer{
-        Name:      "Aditya Nur Rohim",
-        Title:     "Backend Engineer",
-        Location:  "Sidoarjo, East Java 🇮🇩",
-        Education: "Computer Science Student",
-        
-        Experience: []string{
-            "Building RESTful APIs & microservices",
-            "Database design & optimization",
-            "System architecture & scalability",
-        },
-        
-        Expertise: []string{
-            "Go", "PHP/Laravel", "PostgreSQL", 
-            "Redis", "Docker", "Linux",
-        },
-        
-        Learning: []string{
-            "Kubernetes", "gRPC", "Event-Driven Architecture",
-        },
-        
-        Available: true, // Open for opportunities
-    }
-    
-    aditya.BuildScalableSystems()
+```json
+{
+  "name": "Aditya Nur Rohim",
+  "title": "Backend Engineer",
+  "location": "Sidoarjo, East Java 🇮🇩",
+  "education": "Computer Science Student",
+  
+  "experience": [
+    "Building RESTful APIs & microservices",
+    "Database design & optimization",
+    "System architecture & scalability"
+  ],
+  
+  "expertise": [
+    "Go", "PHP/Laravel", "PostgreSQL",
+    "Redis", "Docker", "Linux"
+  ],
+  
+  "learning": [
+    "Kubernetes", "gRPC", "Event-Driven Architecture"
+  ],
+  
+  "available": true
 }
 ```
 
