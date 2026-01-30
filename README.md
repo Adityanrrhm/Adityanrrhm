@@ -47,7 +47,7 @@
 
 <br/>
 
-### ` $ neofetch --backend `
+### ` $ cat ~/skills `
 
 <p>
   <img src="https://skillicons.dev/icons?i=go,laravel,postgres,redis,docker,linux,git&theme=dark" />
