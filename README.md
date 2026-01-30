@@ -6,7 +6,7 @@
 
 <!-- Typing Intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=D4D4D4&background=00000000&vCenter=true&width=600&lines=$+whoami;>+Backend+Engineer+%26+CS+Student;>+Building+scalable+systems...;>+Simplicity+is+my+signature." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=D4D4D4&background=00000000&vCenter=true&width=600&lines=%24+whoami;>+Backend+Engineer+%26+CS+Student;>+Simplicity+is+my+compass;>+Building+systems+that+don%E2%80%99t+break+quietly;>+Careful+code+%3E+clever+code;>+Still+learning%E2%80%94always+will+be" alt="Typing SVG" />
 </a>
 
 <!-- Social Links - Steel Theme -->
