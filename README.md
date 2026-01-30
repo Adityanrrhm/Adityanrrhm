@@ -17,17 +17,13 @@
 
 <br/>
 
-<!-- Visitor Counter & Social Links - Steel Theme -->
-<div align="left">
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Adityanrhm&color=64748B&style=flat-square&label=visitors" height="22"/>
-  &nbsp;&nbsp;
+<!-- Social Links - Steel Theme -->
+<p align="left">
   <a href="https://github.com/Adityanrhm"><img src="https://img.shields.io/badge/GitHub-Adityanrhm-64748B?style=flat-square&logo=github&logoColor=white&labelColor=1E293B" height="22"/></a>
-  &nbsp;
   <a href="https://linkedin.com/in/adityanrhm"><img src="https://img.shields.io/badge/LinkedIn-connect-64748B?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E293B" height="22"/></a>
-  &nbsp;
   <a href="https://instagram.com/adtyanrhm"><img src="https://img.shields.io/badge/Instagram-follow-64748B?style=flat-square&logo=instagram&logoColor=white&labelColor=1E293B" height="22"/></a>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=Adityanrhm&color=64748B&style=flat-square&label=views" height="22"/>
+</p>
 
 <br/>
 
