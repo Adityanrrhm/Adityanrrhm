@@ -64,18 +64,20 @@
 
 ### ` $ htop --sort-key=PERCENT_CPU `
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4&icon_color=33FF00" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=33FF00&text_color=D4D4D4&hide=html,css" height="150" />
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&icon_color=94A3B8" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityanrhm&hide_border=true&background=0D1117&stroke=1E293B&ring=94A3B8&fire=94A3B8&currStreakNum=64748B&sideNums=64748B&currStreakLabel=94A3B8&sideLabels=64748B&dates=475569" height="165" />
+</p>
 
-<br/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrhm&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&hide=html,css" height="140" />
+</p>
 
 ### ` $ git log --graph --oneline `
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrhm&bg_color=0D1117&color=4ADE80&line=4ADE80&point=FFFFFF&area=true&area_color=4ADE80&hide_border=true" width="100%" />
-</div>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrhm&bg_color=0D1117&color=64748B&line=94A3B8&point=CBD5E1&area=true&area_color=1E293B&hide_border=true" width="100%" />
+</p>
 
 <br/>
 
