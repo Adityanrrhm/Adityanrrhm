@@ -49,18 +49,16 @@
 
 ### ` $ neofetch --backend `
 
-<div align="left">
-  &nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go,php,js,laravel,postgres,mysql,redis,docker,linux,git,vscode&theme=dark" />
-</div>
-
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,laravel,postgres,redis,docker,linux,git&theme=dark" />
+</p>
 
 ### ` $ ls -l ./projects `
 
-| Permission | Owner | Name | Stack | Description | Status |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| `drwxr-xr-x` | `aditya` | **[kas-management](https://github.com/Adityanrhm/kas-management)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Transaction Strategy System | 🟢 |
-| `drwxr-xr-x` | `aditya` | **[softfixer](https://github.com/Adityanrhm/softfixer)** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | Service Management Utility | 🟢 |
+| Mode | Name | Tech | Description |
+| :--- | :--- | :--- | :--- |
+| `drwxr-xr-x` | [**kas-management**](https://github.com/Adityanrhm/kas-management) | ![Laravel](https://img.shields.io/badge/Laravel-64748B?style=flat-square&logo=laravel&logoColor=white&labelColor=1E293B) | Financial transaction strategy system |
+| `drwxr-xr-x` | [**softfixer**](https://github.com/Adityanrhm/softfixer) | ![PHP](https://img.shields.io/badge/PHP-64748B?style=flat-square&logo=php&logoColor=white&labelColor=1E293B) | Service management utility tool |
 
 <br/>
 
