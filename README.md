@@ -17,14 +17,16 @@
 
 <br/>
 
-<!-- Visitor Counter & Badges -->
+<!-- Visitor Counter & Social Links - Steel Theme -->
 <div align="left">
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Adityanrhm&color=33FF00&style=flat-square&label=VISITORS" height="20"/>
+  <img src="https://komarev.com/ghpvc/?username=Adityanrhm&color=64748B&style=flat-square&label=visitors" height="22"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Adityanrhm"><img src="https://img.shields.io/badge/GitHub-Adityanrhm-64748B?style=flat-square&logo=github&logoColor=white&labelColor=1E293B" height="22"/></a>
   &nbsp;
-  <a href="https://github.com/Adityanrhm"><img src="https://img.shields.io/badge/git-connect-lightgrey?style=flat-square&logo=github&logoColor=black&labelColor=white" height="20"/></a>
-  <a href="https://linkedin.com/in/adityanrhm"><img src="https://img.shields.io/badge/in-connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20"/></a>
-  <a href="https://instagram.com/adtyanrhm"><img src="https://img.shields.io/badge/ig-follow-E4405F?style=flat-square&logo=instagram&logoColor=white" height="20"/></a>
+  <a href="https://linkedin.com/in/adityanrhm"><img src="https://img.shields.io/badge/LinkedIn-connect-64748B?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E293B" height="22"/></a>
+  &nbsp;
+  <a href="https://instagram.com/adtyanrhm"><img src="https://img.shields.io/badge/Instagram-follow-64748B?style=flat-square&logo=instagram&logoColor=white&labelColor=1E293B" height="22"/></a>
 </div>
 
 <br/>
