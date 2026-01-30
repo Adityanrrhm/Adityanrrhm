@@ -22,28 +22,44 @@
 ```go
 package main
 
-import "fmt"
-
+// Developer represents a software engineer profile
 type Developer struct {
     Name       string
-    Role       string
+    Title      string
     Location   string
-    Stack      []string
+    Education  string
+    Experience []string
+    Expertise  []string
     Learning   []string
-    OpenToWork bool
+    Available  bool
 }
 
 func main() {
-    me := Developer{
-        Name:       "Aditya Nur Rohim",
-        Role:       "Backend Engineer 🇮🇩",
-        Location:   "Sidoarjo, Indonesia",
-        Stack:      []string{"Go", "Laravel", "Postgres", "Redis", "Docker"},
-        Learning:   []string{"Kubernetes", "gRPC", "Microservices"},
-        OpenToWork: true,
+    aditya := Developer{
+        Name:      "Aditya Nur Rohim",
+        Title:     "Backend Engineer",
+        Location:  "Sidoarjo, East Java 🇮🇩",
+        Education: "Computer Science Student",
+        
+        Experience: []string{
+            "Building RESTful APIs & microservices",
+            "Database design & optimization",
+            "System architecture & scalability",
+        },
+        
+        Expertise: []string{
+            "Go", "PHP/Laravel", "PostgreSQL", 
+            "Redis", "Docker", "Linux",
+        },
+        
+        Learning: []string{
+            "Kubernetes", "gRPC", "Event-Driven Architecture",
+        },
+        
+        Available: true, // Open for opportunities
     }
     
-    fmt.Printf("Hello, I build systems that scale. \n%+v\n", me)
+    aditya.BuildScalableSystems()
 }
 ```
 
