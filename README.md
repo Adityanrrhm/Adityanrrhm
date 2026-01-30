@@ -62,7 +62,7 @@
 
 <br/>
 
-### ` $ htop --sort-key=PERCENT_CPU `
+### ` $ cat ~/stats `
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Adityanrhm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&icon_color=94A3B8" height="165" />
