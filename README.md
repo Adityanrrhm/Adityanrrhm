@@ -53,6 +53,18 @@
   <img src="https://skillicons.dev/icons?i=go,laravel,postgres,redis,docker,linux,git&theme=dark" />
 </p>
 
+### ` $ fortune | cowsay `
+
+<p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" />
+</p>
+
+### ` $ cat ~/achievements `
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityanrhm&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+</p>
+
 ### ` $ ls -l ./projects `
 
 | Mode | Name | Tech | Description |
