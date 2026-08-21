@@ -77,12 +77,12 @@
 ### ` $ cat ~/stats `
 
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adityanrrhm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&icon_color=94A3B8" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Adityanrrhm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&icon_color=94A3B8" height="165" />
   <img src="https://streak-stats.demolab.com/?user=Adityanrrhm&hide_border=true&background=0D1117&stroke=1E293B&ring=94A3B8&fire=94A3B8&currStreakNum=64748B&sideNums=64748B&currStreakLabel=94A3B8&sideLabels=64748B&dates=475569" height="165" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adityanrrhm&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&hide=html,css" height="140" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adityanrrhm&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&hide=html,css" height="140" />
 </p>
 
 ### ` $ tail -f ~/activity.log `
