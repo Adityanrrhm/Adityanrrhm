@@ -9,8 +9,8 @@
 
 <p>
   <a href="https://github.com/Adityanrrhm"><img src="https://img.shields.io/badge/GitHub-Adityanrrhm-64748B?style=flat-square&logo=github&logoColor=white&labelColor=1E293B" height="22"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-connect-64748B?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E293B" height="22"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-follow-64748B?style=flat-square&logo=instagram&logoColor=white&labelColor=1E293B" height="22"/></a>
+  <a href="https://www.linkedin.com/in/adityanurrohim/"><img src="https://img.shields.io/badge/LinkedIn-connect-64748B?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E293B" height="22"/></a>
+  <a href="https://www.instagram.com/adityanrrhm/"><img src="https://img.shields.io/badge/Instagram-follow-64748B?style=flat-square&logo=instagram&logoColor=white&labelColor=1E293B" height="22"/></a>
 </p>
 
 <!-- TODO: ganti "#" dengan link LinkedIn & Instagram kamu -->
