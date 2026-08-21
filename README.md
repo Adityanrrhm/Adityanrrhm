@@ -1,22 +1,21 @@
-<!-- Terminal Header -->
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2&width=100%" />
   <h3>🔴 🟡 🟢  ~/identity/Adityanrrhm</h3>
 </div>
 
-<!-- Typing Intro -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=D4D4D4&background=00000000&vCenter=true&width=650&lines=%24+whoami;>+Information+Systems+Student;>+Aspiring+Data+Analyst;>+Turning+raw+data+into+decisions;>+SQL+%2B+curiosity+%3D+insight;>+Still+learning%E2%80%94always+will+be" alt="Typing SVG" />
 </a>
 
-<!-- Social Links -->
 <p>
   <a href="https://github.com/Adityanrrhm"><img src="https://img.shields.io/badge/GitHub-Adityanrrhm-64748B?style=flat-square&logo=github&logoColor=white&labelColor=1E293B" height="22"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-connect-64748B?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E293B" height="22"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-follow-64748B?style=flat-square&logo=instagram&logoColor=white&labelColor=1E293B" height="22"/></a>
 </p>
 
-<!-- TODO: ganti "#" di atas dengan link LinkedIn & Instagram kamu -->
+<!-- TODO: ganti "#" dengan link LinkedIn & Instagram kamu -->
+
+<br/>
 
 ### ` $ cat about.json `
 
@@ -34,12 +33,10 @@
     "Data-driven decision support"
   ],
 
-  "interests": [
-    "AI", "Data Engineering", "Cloud Computing"
-  ],
+  "interests": ["AI", "Data Engineering", "Cloud Computing"],
 
   "currently_learning": [
-    "Advanced SQL (window functions, CTEs)",
+    "Advanced SQL (window functions, CTEs, JSON functions)",
     "Cloud data platforms",
     "Python for data analysis"
   ],
@@ -50,20 +47,37 @@
 
 <br/>
 
-### ` $ cat ~/skills `
+### ` $ cat ~/toolbox `
 
+**Languages & Query**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,vercel&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=94A3B8" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=94A3B8" height="30"/>
 </p>
 
+**Data & Analysis**
 <p>
-  <img src="https://img.shields.io/badge/Pandas-64748B?style=flat-square&logo=pandas&logoColor=white&labelColor=1E293B" height="24"/>
-  <img src="https://img.shields.io/badge/NumPy-64748B?style=flat-square&logo=numpy&logoColor=white&labelColor=1E293B" height="24"/>
-  <img src="https://img.shields.io/badge/Jupyter-64748B?style=flat-square&logo=jupyter&logoColor=white&labelColor=1E293B" height="24"/>
-  <img src="https://img.shields.io/badge/Tableau-64748B?style=flat-square&logo=tableau&logoColor=white&labelColor=1E293B" height="24"/>
-  <img src="https://img.shields.io/badge/Power_BI-64748B?style=flat-square&logo=powerbi&logoColor=white&labelColor=1E293B" height="24"/>
-  <img src="https://img.shields.io/badge/Excel-64748B?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=1E293B" height="24"/>
+  <img src="https://img.shields.io/badge/Pandas-1E293B?style=for-the-badge&logo=pandas&logoColor=94A3B8" height="30"/>
+  <img src="https://img.shields.io/badge/NumPy-1E293B?style=for-the-badge&logo=numpy&logoColor=94A3B8" height="30"/>
+  <img src="https://img.shields.io/badge/Jupyter-1E293B?style=for-the-badge&logo=jupyter&logoColor=94A3B8" height="30"/>
 </p>
+
+**Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Tableau-1E293B?style=for-the-badge&logo=tableau&logoColor=94A3B8" height="30"/>
+  <img src="https://img.shields.io/badge/Power_BI-1E293B?style=for-the-badge&logo=powerbi&logoColor=94A3B8" height="30"/>
+  <img src="https://img.shields.io/badge/Excel-1E293B?style=for-the-badge&logo=microsoftexcel&logoColor=94A3B8" height="30"/>
+</p>
+
+**Database & Tools**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=94A3B8" height="30"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=94A3B8" height="30"/>
+  <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=94A3B8" height="30"/>
+  <img src="https://img.shields.io/badge/VS_Code-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=94A3B8" height="30"/>
+</p>
+
+<br/>
 
 ### ` $ ls -l ./projects `
 
@@ -71,7 +85,7 @@
 | :--- | :--- | :--- |
 | `drwxr-xr-x` | **[proyek data analyst pertama]** | 🚧 sedang disiapkan — menyusul |
 
-<sub>Repo akan ditambahkan begitu proyek publik pertama siap. Isi tabel ini nanti dengan format: nama repo (link), tech stack, deskripsi singkat.</sub>
+<sub>Repo akan ditambahkan begitu proyek publik pertama siap.</sub>
 
 <br/>
 
