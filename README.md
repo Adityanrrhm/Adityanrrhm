@@ -50,7 +50,7 @@
 ### ` $ cat ~/skills `
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,pandas,numpy,postgres,mysql,tableau,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,pandas,numpy,postgres,mysql,tableau,git,github&theme=dark&v=1" />
 </p>
 
 ### ` $ fortune | cowsay `
@@ -62,7 +62,7 @@
 ### ` $ cat ~/achievements `
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityanrrhm&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityanrrhm&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&v=1" />
 </p>
 
 ### ` $ ls -l ./projects `
@@ -77,18 +77,18 @@
 ### ` $ cat ~/stats `
 
 <p>
-  <img src="https://github-stats-extended.vercel.app/api?username=Adityanrrhm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&icon_color=94A3B8" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Adityanrrhm&hide_border=true&background=0D1117&stroke=1E293B&ring=94A3B8&fire=94A3B8&currStreakNum=64748B&sideNums=64748B&currStreakLabel=94A3B8&sideLabels=64748B&dates=475569" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Adityanrrhm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&icon_color=94A3B8&v=1" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Adityanrrhm&hide_border=true&background=0D1117&stroke=1E293B&ring=94A3B8&fire=94A3B8&currStreakNum=64748B&sideNums=64748B&currStreakLabel=94A3B8&sideLabels=64748B&dates=475569&v=1" height="165" />
 </p>
 
 <p>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adityanrrhm&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&hide=html,css" height="140" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adityanrrhm&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&hide=html,css&v=1" height="140" />
 </p>
 
 ### ` $ tail -f ~/activity.log `
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrrhm&bg_color=0D1117&color=64748B&line=94A3B8&point=CBD5E1&area=true&area_color=1E293B&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrrhm&bg_color=0D1117&color=64748B&line=94A3B8&point=CBD5E1&area=true&area_color=1E293B&hide_border=true&v=1" width="100%" />
 </p>
 
 <br/>
