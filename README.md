@@ -50,7 +50,7 @@
 ### ` $ cat ~/skills `
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,tableau,powerbi,excel,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,pandas,numpy,postgres,mysql,tableau,git,github&theme=dark" />
 </p>
 
 ### ` $ fortune | cowsay `
