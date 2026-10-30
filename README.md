@@ -16,7 +16,6 @@
   <a href="https://instagram.com/adtyanrhm"><img src="https://img.shields.io/badge/Instagram-follow-64748B?style=flat-square&logo=instagram&logoColor=white&labelColor=1E293B" height="22"/></a>
 </p>
 
-
 ### ` $ cat profile.json `
 
 ```json
@@ -50,48 +49,34 @@
 ### ` $ cat ~/skills `
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,pandas,numpy,postgres,mysql,tableau,git,github&theme=dark&v=1" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,pandas,numpy,r,docker,linux,bash,git,github,tableau,vscode&perline=7&theme=dark" />
 </p>
 
-### ` $ fortune | cowsay `
+<br/>
 
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-### ` $ cat ~/achievements `
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityanrrhm&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&v=1" />
-</p>
-
-### ` $ ls -l ./projects `
+### ` $ ls -la ./projects `
 
 | Mode | Name | Tech | Description |
 | :--- | :--- | :--- | :--- |
-| `drwxr-xr-x` | [**kas-management**](https://github.com/Adityanrrhm/kas-management) | ![Laravel](https://img.shields.io/badge/Laravel-64748B?style=flat-square&logo=laravel&logoColor=white&labelColor=1E293B) | Financial transaction strategy system |
-| `drwxr-xr-x` | [**softfixer**](https://github.com/Adityanrrhm/softfixer) | ![PHP](https://img.shields.io/badge/PHP-64748B?style=flat-square&logo=php&logoColor=white&labelColor=1E293B) | Service management utility tool |
+| `drwxr-xr-x` | [**kas-management**](https://github.com/Adityanrrhm/kas-management) | ![Laravel](https://img.shields.io/badge/Laravel-64748B?style=flat-square&logo=laravel&logoColor=white&labelColor=1E293B) | Financial transaction management & cash flow system |
+| `drwxr-xr-x` | [**softfixer**](https://github.com/Adityanrrhm/softfixer) | ![PHP](https://img.shields.io/badge/PHP-64748B?style=flat-square&logo=php&logoColor=white&labelColor=1E293B) | Service & device repair management utility |
 
 <br/>
 
 ### ` $ cat ~/stats `
 
-<p>
-  <img src="https://github-stats-extended.vercel.app/api?username=Adityanrrhm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&icon_color=94A3B8&v=1" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Adityanrrhm&hide_border=true&background=0D1117&stroke=1E293B&ring=94A3B8&fire=94A3B8&currStreakNum=64748B&sideNums=64748B&currStreakLabel=94A3B8&sideLabels=64748B&dates=475569&v=1" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityanrrhm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&icon_color=94A3B8" height="155" />
+  <img src="https://streak-stats.demolab.com/?user=Adityanrrhm&hide_border=true&background=0D1117&stroke=1E293B&ring=94A3B8&fire=94A3B8&currStreakNum=64748B&sideNums=64748B&currStreakLabel=94A3B8&sideLabels=64748B&dates=475569" height="155" />
 </p>
 
-<p>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adityanrrhm&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&hide=html,css&v=1" height="140" />
-</p>
-
-### ` $ tail -f ~/activity.log `
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityanrrhm&bg_color=0D1117&color=64748B&line=94A3B8&point=CBD5E1&area=true&area_color=1E293B&hide_border=true&v=1" width="100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityanrrhm&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&hide=html,css" height="140" />
 </p>
 
 <br/>
+
+### ` $ tail -f ~/contributions.log `
 
 <div align="center">
   <picture>
@@ -104,5 +89,5 @@
 <br/>
 
 <div align="center">
-  <code>sender: adityanrrhm@github ~ $ exit 0_</code>
+  <code>adityanrrhm@terminal:~ $ exit 0_</code>
 </div>
